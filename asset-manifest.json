@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/calculator-reactJS-one/static/css/main.bd1b682e.chunk.css",
-    "main.js": "/calculator-reactJS-one/static/js/main.d66e270a.chunk.js",
-    "main.js.map": "/calculator-reactJS-one/static/js/main.d66e270a.chunk.js.map",
-    "runtime-main.js": "/calculator-reactJS-one/static/js/runtime-main.a43323e7.js",
-    "runtime-main.js.map": "/calculator-reactJS-one/static/js/runtime-main.a43323e7.js.map",
-    "static/js/2.59f61b0d.chunk.js": "/calculator-reactJS-one/static/js/2.59f61b0d.chunk.js",
-    "static/js/2.59f61b0d.chunk.js.map": "/calculator-reactJS-one/static/js/2.59f61b0d.chunk.js.map",
-    "index.html": "/calculator-reactJS-one/index.html",
-    "static/css/main.bd1b682e.chunk.css.map": "/calculator-reactJS-one/static/css/main.bd1b682e.chunk.css.map",
-    "static/js/2.59f61b0d.chunk.js.LICENSE.txt": "/calculator-reactJS-one/static/js/2.59f61b0d.chunk.js.LICENSE.txt"
+    "main.css": "/stretching-resource.git/static/css/main.ffaeac0c.css",
+    "main.js": "/stretching-resource.git/static/js/main.69dd98d9.js",
+    "index.html": "/stretching-resource.git/index.html",
+    "main.ffaeac0c.css.map": "/stretching-resource.git/static/css/main.ffaeac0c.css.map",
+    "main.69dd98d9.js.map": "/stretching-resource.git/static/js/main.69dd98d9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a43323e7.js",
-    "static/js/2.59f61b0d.chunk.js",
-    "static/css/main.bd1b682e.chunk.css",
-    "static/js/main.d66e270a.chunk.js"
+    "static/css/main.ffaeac0c.css",
+    "static/js/main.69dd98d9.js"
   ]
 }
